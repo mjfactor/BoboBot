@@ -53,5 +53,3 @@ def chat_bot():
                 brain['question'].append({'question': user_question, 'answer': new_answer})
                 save_to_brain('brain.json', brain)
                 print('BoBo: Thanks for teaching me!')
-
-
