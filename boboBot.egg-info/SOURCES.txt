@@ -1,0 +1,7 @@
+setup.py
+boboBot.egg-info/PKG-INFO
+boboBot.egg-info/SOURCES.txt
+boboBot.egg-info/dependency_links.txt
+boboBot.egg-info/top_level.txt
+bobobotLib/__init__.py
+bobobotLib/boboBot.py

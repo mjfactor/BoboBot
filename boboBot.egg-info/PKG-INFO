@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: boboBot
+Version: 1.0
+Summary: A Dumb Chatbot, Please dont install me
+Author: mjfactor
+Author-email: emjayfactor@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# BoboBot
+
+A Very Dumb chatbot, please don't install me.
+
+## Installation
+```bash
+pip install boboBot
+```
+
+## Usage
+```python
+from bobobotLib import chat_bot
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
