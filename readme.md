@@ -3,9 +3,13 @@
 A Very Dumb chatbot, please don't install me.
 
 ## Installation
+Visit: https://pypi.org/project/boboBot/
+
+or to Install this library:
 ```bash
 pip install boboBot
 ```
+*run pip on your virtual envirmont lol*
 
 ## Usage
 ```python
