@@ -1,13 +1,17 @@
 Metadata-Version: 2.1
 Name: boboBot
-Version: 2.2
+Version: 2.3
 Summary: A Dumb Chatbot, Please dont install me
 Author: mjfactor
 Author-email: emjayfactor@gmail.com
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.10
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown
 
