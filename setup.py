@@ -2,14 +2,16 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
+
 HERE = path.abspath(path.dirname(__file__))
 
 with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
+
 setup(
     name='boboBot',
-    version='1.0',
+    version='2.1',
     packages=find_packages(),
     author='mjfactor',
     author_email='emjayfactor@gmail.com',

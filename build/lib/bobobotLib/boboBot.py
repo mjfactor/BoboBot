@@ -1,8 +1,12 @@
 import json
 from difflib import get_close_matches
+import os
 
 
 def loadBrain(filename: str) -> dict:
+    if not os.path.exists(filename):
+        with open(filename, 'w') as f:
+            json.dump({"question": []}, f, indent=2)
     with open(filename, 'r') as f:
         return json.load(f)
 
@@ -49,3 +53,5 @@ def chat_bot():
                 brain['question'].append({'question': user_question, 'answer': new_answer})
                 save_to_brain('brain.json', brain)
                 print('BoBo: Thanks for teaching me!')
+
+

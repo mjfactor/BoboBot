@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: boboBot
-Version: 1.0
+Version: 2.1
 Summary: A Dumb Chatbot, Please dont install me
 Author: mjfactor
 Author-email: emjayfactor@gmail.com
@@ -16,9 +16,13 @@ Description-Content-Type: text/markdown
 A Very Dumb chatbot, please don't install me.
 
 ## Installation
+Visit: https://pypi.org/project/boboBot/
+
+or to Install this library:
 ```bash
 pip install boboBot
 ```
+*run pip on your virtual envirmont lol*
 
 ## Usage
 ```python
