@@ -9,7 +9,7 @@ or to Install this library:
 ```bash
 pip install boboBot
 ```
-*run pip on your virtual envirmont lol*
+*run pip on your virtual environment lol*
 
 ## Usage
 ```python
