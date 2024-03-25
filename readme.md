@@ -1,6 +1,6 @@
 # BoboBot
 
-A Very Dumb chatbot, please don't install me.
+Install bobobot if you want to waste your time.
 
 ## Installation
 Visit: https://pypi.org/project/boboBot/
