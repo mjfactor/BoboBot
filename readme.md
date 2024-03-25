@@ -1,6 +1,6 @@
 # BoboBot
 
-Install bobobot if you want to waste your time.
+Install bobobot if you want to waste your time. Training this chatbot will a complete waste of time. But if you want to waste your time, go ahead.
 
 ## Installation
 Visit: https://pypi.org/project/boboBot/
