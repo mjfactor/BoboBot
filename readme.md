@@ -1,6 +1,6 @@
 # BoboBot
 
-Install bobobot if you want to waste your time.
+Install bobobot if you want to waste your time. Train it to be your personal assistant or just to have a conversation with it.
 
 ## Installation
 Visit: https://pypi.org/project/boboBot/
