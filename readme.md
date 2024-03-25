@@ -1,6 +1,6 @@
 # BoboBot
 
-A Very Dumb chatbot, please don't install me.
+Train me, im dumb chatbot, please don't install me.
 
 ## Installation
 Visit: https://pypi.org/project/boboBot/
