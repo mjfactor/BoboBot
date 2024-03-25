@@ -9,7 +9,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='boboBot',
-    version='2.3',
+    version='2.4',
     packages=find_packages(),
     author='mjfactor',
     author_email='emjayfactor@gmail.com',

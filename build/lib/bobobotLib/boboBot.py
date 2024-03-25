@@ -45,9 +45,9 @@ def chat_bot():
             break
         best_match: str | None = find_best_matches(user_question, [q['question'] for q in brain['question']])
         if best_match:
-            print(f'Bot: {get_answer_for_question(brain, best_match)}')
+            print(f'BoBo: {get_answer_for_question(brain, best_match)}')
         else:
-            print('Bot: I do not understand your question. Can you teach me?')
+            print('BoBo: I do not understand your question. Can you teach me?')
             new_answer = input("Type the answer or 'skip' for the question: ")
             if new_answer.lower() != 'skip':
                 brain['question'].append({'question': user_question, 'answer': new_answer})
